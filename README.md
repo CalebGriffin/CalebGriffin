@@ -4,4 +4,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-_Generated with [Platane/snk](https://github.com/Platane/snk)_
+_My GitHub contribution graph being played as a snake game, generated with [Platane/snk](https://github.com/Platane/snk)_
